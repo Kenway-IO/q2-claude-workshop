@@ -1,0 +1,44 @@
+Q: What does Kenway Consulting do?
+A: Kenway Consulting is a management and technology consulting firm that helps organizations solve complex business problems through strategy, technology, and data solutions.
+
+Q: What industries does Kenway serve?
+A: Kenway serves clients across financial services, insurance, healthcare, and other regulated industries.
+
+Q: Where is Kenway headquartered?
+A: Kenway is headquartered in Chicago, Illinois.
+
+Q: What types of technology solutions does Kenway build?
+A: Kenway builds data pipelines, analytics platforms, automation tools, AI-powered applications, cloud migrations, and custom software solutions.
+
+Q: What is Kenway's approach to consulting?
+A: Kenway focuses on practical, outcome-driven delivery. We embed with client teams, transfer knowledge throughout engagements, and build solutions designed to be maintained after we leave.
+
+Q: Does Kenway do data engineering work?
+A: Yes. Kenway designs and builds data pipelines, data warehouses, ETL/ELT processes, and analytics platforms using modern cloud-native tools.
+
+Q: What cloud platforms does Kenway work with?
+A: Kenway works across major cloud providers including AWS, Azure, and Google Cloud Platform, selecting the best fit for each client's needs.
+
+Q: Does Kenway offer AI and machine learning services?
+A: Yes. Kenway helps clients evaluate, prototype, and deploy AI/ML solutions including natural language processing, predictive analytics, and generative AI applications.
+
+Q: How does Kenway handle project management?
+A: Kenway uses agile methodologies tailored to each engagement. We emphasize iterative delivery, frequent stakeholder feedback, and transparent communication.
+
+Q: What makes Kenway different from other consulting firms?
+A: Kenway combines deep technical expertise with strong business acumen. Our consultants are hands-on builders, not just advisors — we write code, build pipelines, and ship working software alongside client teams.
+
+Q: Does Kenway provide staff augmentation?
+A: Yes. Kenway offers flexible engagement models including dedicated project teams, staff augmentation, and advisory services.
+
+Q: How does Kenway approach data governance?
+A: Kenway helps organizations establish data quality standards, metadata management, access controls, and compliance frameworks aligned with regulatory requirements.
+
+Q: What programming languages and frameworks does Kenway use?
+A: Kenway's technical consultants work across a wide range of technologies including Python, JavaScript/TypeScript, SQL, Java, React, Node.js, and various data engineering frameworks.
+
+Q: Does Kenway work with startups or only large enterprises?
+A: Kenway works with organizations of all sizes, from growth-stage companies to large enterprises, tailoring our approach to match each client's scale and maturity.
+
+Q: How can I contact Kenway about a potential engagement?
+A: Visit kenwayconsulting.com or reach out to your Kenway contact directly to discuss how we can help with your business and technology challenges.
